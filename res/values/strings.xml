@@ -40,6 +40,13 @@
 
 	<string name="pixel_navbar_animation">Pixel Navbar Animation</string>
 
+        <string name="volume_key_cursor_control_title">Volume Button Cursor Control</string>
+        <string name="volume_cursor_control_disable">Disabled</string>
+        <string name="volume_cursor_control_normal">Control left to right</string>
+        <string name="volume_cursor_control_reversed">Reversed right to left</string>
+
+	<string name="volume_key_cursor_control_summary">Control the text input cursor with volume buttons</string>
+
 	<string name="swap_volume_buttons_title">Swap Volume Buttons</string>
 	<string name="swap_volume_buttons_summary">Swap volume buttons while rotated</string>
 
